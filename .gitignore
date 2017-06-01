@@ -1,0 +1,5 @@
+#proyect files
+/public/js/bundle.js
+
+# Dependency directories
+node_modules
